@@ -4,7 +4,6 @@
 
 I’m passionate about breaking things and learning fast! I’m driven by the motto: _"Let’s fail quickly so we can succeed faster!"_ Inspired by [@CodeWithHarry](https://github.com/CodeWithHarry), I believe in **continuous learning**, pushing boundaries, and having fun while coding.
 
-![Coding GIF](https://media.giphy.com/media/3o6MbaU9oR3gItGfm8/giphy.gif)
 
 ## 🌟 About Me
 - 💼 **Front-end Developer in the Making:** Currently sharpening my skills with **HTML** and everything web-dev-related.
